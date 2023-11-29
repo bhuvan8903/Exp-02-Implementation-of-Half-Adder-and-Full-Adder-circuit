@@ -38,17 +38,32 @@ If the output is 1, then the led glows.
 Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
+## Half Adder:
+![Screenshot 2023-11-21 212625](https://github.com/bhuvan8903/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151444524/4976455d-557a-48f7-a52f-d80b48c90be7)
 
-### Output:
-### RTL
-### TIMING DIAGRAM
+## Full Adder:
+![Screenshot 2023-11-21 212632](https://github.com/bhuvan8903/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151444524/13de31d4-e929-4b8b-a1e3-6d1d1a5591ed)
 
+### RTL:
+## Half Adder:
+![Screenshot 2023-11-21 212659](https://github.com/bhuvan8903/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151444524/4d74ff6a-e599-441b-b669-e297d1db72d0)
 
-### TRUTH TABLE 
+## Full Adder:
+![Screenshot 2023-11-21 212712](https://github.com/bhuvan8903/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151444524/c30eb278-f9d6-449a-8e46-08a10157d4ed)
+
+### TIMING DIAGRAM:
+## Half Adder:
+![Screenshot 2023-11-21 212722](https://github.com/bhuvan8903/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151444524/f61a43f8-8bdd-4583-9f9c-633c7daafdaf)
+
+## Full Adder:
+![Screenshot 2023-11-21 212728](https://github.com/bhuvan8903/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151444524/b18a34b4-10e0-4df6-aa94-85e28ce7c9bb)
+
+### TRUTH TABLE :
+## Half Adder:
+![Screenshot 2023-11-21 212643](https://github.com/bhuvan8903/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151444524/292d3770-0a1f-4e62-b0d5-d1ea4420c485)
+
+## Full Adder:
+![Screenshot 2023-11-21 212650](https://github.com/bhuvan8903/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151444524/0b1c3ae0-1955-48fc-9eac-64f6d4c3f93a)
 
 ### Result:
+To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
